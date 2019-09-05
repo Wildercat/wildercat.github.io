@@ -1,7 +1,50 @@
+/* general styling */
 body {
-    background-color: brown;
+    font-family: 'Roboto', sans-serif;
 }
-.blog article {
+
+/* header and footer 
+---------------------------------------*/
+header {
+    padding: 1em;
+}
+header h1, header h2 {
+    display: inline;
+}
+header h2 {
+    font-style: italic;
+    font-size: 1em;
+}
+
+/* menu */
+
+header ul {
+    float: right;
+}
+header ul li {
+    display: inline;
+}
+
+/* blog body and articles */
+
+.pagebody {
     border-style: solid;
-    background-color: aqua;
+    border-width: 1px;
+    padding: 1em;
+}
+.postHeader {
+    border-bottom-style: dashed;
+    border-width: 1px;
+}
+.postHeader h2, .postHeader .date {
+    display: inline;
+    padding: .25em;
+    padding-left: 0em;
+}
+.date {
+    font-style: italic;
+}
+
+article {
+    padding-bottom: 1em;
 }
