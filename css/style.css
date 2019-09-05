@@ -10,6 +10,7 @@ header {
 }
 header h1, header h2 {
     display: inline;
+    padding-right: .25em
 }
 header h2 {
     font-style: italic;
