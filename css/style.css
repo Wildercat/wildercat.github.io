@@ -1,4 +1,7 @@
+body {
+    background-color: brown;
+}
 .blog article {
     border-style: solid;
-    background-color: aqua
+    background-color: aqua;
 }
