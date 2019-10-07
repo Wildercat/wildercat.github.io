@@ -31,6 +31,11 @@
                 "date": "September 22nd, 2019",
                 "body": "<p><b>What did you learn about that helped you understand the Development process?</b></p><p>I learned that I need to focus more on pseudocode. I find it hard to continue writing things when I don't even know if they'll work. I want to get in and test them before moving on, and before you know it I've written most of the code and only a few words of pseudocode. Obviously this will only work with small projects, so I need to get acclimated to writing out whole projects in pseudocode before touching actual code.</p><p><b>What does it mean to develop good code?</b></p><p>Seems like good code needs to: <ul><li>Be functional. Fulfill the need of the project.</li><li>Be maintainable. It should to be written to be easily upgradeable and readable.</li></ul></p><p>These are in order of importance. There's no point in writing well-documented, well-commented code if it doesn't actually fulfill the need it's engineered for.</p><p><b>What does it mean to be a good Developer?</b><p><p>I certainly don't know the answer to that, but one important quality seems to be the ability to absorb and quickly utilize new information.</p>"
             }
+            {
+                "title": "Week Seven Questions",
+                "date": "October 7th, 2019",
+                "body": "<p><b>Why do you see Javascript useful or hard to use?</b></p><p>The upside of javascript seems to be that it runs on anything that can run a web browser.</p><p><b>What aspects about Javascript are you interested in learning more about?</b></p><p>Considering it's more or less my first language, I'm interested to learn more of everything about it.</p>"
+            }
         ]
     ]
 }
