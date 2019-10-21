@@ -2,7 +2,139 @@
     "content": [
         [
             {
-                "title": "Week Nine Questions",
+                "title": "First Post",
+                "date": "August 30th, 2019",
+                "body": [
+                    {
+                        "header": "Was your first week what you expected? Why? Why not?",
+                        "text": "The first week wasn't too surprising for me. Meeting on the first day was interesting, it was strange to be in a classroom or school-like environment with much older students (including me) than the last time I was in school."
+                    },
+                    {
+                        "header": "What are you struggling with?",
+                        "text": "Well, for the this assignment in particular I managed to tunnel on one slide and forget to check the others for assignments. I have also missed a standup purely due to my own negligence. These types of logistical struggles are common for me, so I will just need to stay on full alert for the duration of the prework. Once the in-person work begins, I expect to have less problems in that area."
+                    },
+                    {
+                        "header": "What are you excited or eager to learn more about?",
+                        "text": "I'm excited to get more into javascript, node, react, etc. The logical elements behind webpages are way more interesting to me than the visual ones."
+                    }
+                ]
+            },
+            {
+                "title": "Week Two Questions",
+                "date": "September 4th, 2019",
+                "body": [
+                    {
+                        "header": "What are your thoughts on Pseudo Coding?",
+                        "text": "I enjoyed writing the pseudocode. The line between pseudocode and actual code was not clear to me - something like a for loop seemed like a specific feature of specific languages, so I wasn't sure if that was something I could use in pseudocode."
+                    },
+                    {
+                        "header": "What are you struggling with?",
+                        "text": "I am not struggling with anything, particularly."
+                    },
+                    {
+                        "header": "What are you excited or eager to learn more about?",
+                        "text": "I'm still excited about getting into javascript, and server-side web development."
+                    }
+                ]
+            },
+            {
+                "title": "Week Three Questions",
+                "date": "September 9th, 2019",
+                "body": [
+                    {
+                        "header": "What are your thoughts about the roles HTML, CSS, and Javascript play in the process of rendering content and providing user experience?",
+                        "text": "Hmm, that reads an awful lot like a test question... The answer that you're probably looking for is that HTML provides the structure for a web page, CSS makes it readable for humans, and Javascript makes it interactive."
+                    }
+                ]
+            },
+            {
+                "title": "Week Four Questions",
+                "date": "September 13th, 2019",
+                "body": [
+                    {
+                        "header": "What was one thing you liked and disliked about each of the new topics covered in Prework?",
+                        "text": "I'm not too sure which topics you're referring to, but if its HTML/CSS/Javascript: <br> I liked understanding more of the interaction between HTML and CSS. I still don't like the actual design process, involving adding css and then visually checking the page, changing the css again, etc. <br> I really enjoyed working with javascript. Writing code that's simple and does the job is extremely satisfying. I didn't dislike anything about it. Though I am told that once I learn other languages I will have things to complain about with javascript."
+                    },
+                    {
+                        "header": "What was helpful?",
+                        "text": "Justin and Ian were quite helpful! When I asked a question on slack, they responded within the minute."
+                    },
+                    {
+                        "header": "What hindered your progress?",
+                        "text": "I can't think of anything external that really hindered me. Wow classic, perhaps."
+                    },
+                    {
+                        "header": "How did you overcome challenges?",
+                        "text": "Blind persistence."
+                    }
+                ]
+            },
+            {
+                "title": "Week Five Questions",
+                "date": "September 22nd, 2019",
+                "body": [
+                    {
+                        "header": "What did you learn about that helped you understand more about Design?",
+                        "text": "The talk on CRAP design principles was enlightening. One of my takeaways was the importance of whitespace."
+                    },
+                    {
+                        "header": "What do you want to continue learning about that helps you understand Design better?",
+                        "text": "Learning and talking about graphic design was fun, but I would love to learn more about design in general, not just specifically graphic design."
+                    },
+                    {
+                        "header": "What Design aspects are important to you as a user and as a developer?",
+                        "text": "I appreciate the concepts of Design that were talked about this week for how practical they were - they really took into account the actual purpose of what's being designed. I guess the most critical aspect of design to me is to keep the main thing the main thing."
+                    }
+                ]
+            },
+            {
+                "title": "",
+                "date": "",
+                "body": [
+                    {
+                        "header": "",
+                        "text": ""
+                    },
+                    {
+                        "header": "",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "title": "Week Six Questions",
+                "date": "September 22nd, 2019",
+                "body": [
+                    {
+                        "header": "What did you learn about that helped you understand the Development process?",
+                        "text": "I learned that I need to focus more on pseudocode. I find it hard to continue writing things when I don't even know if they'll work. I want to get in and test them before moving on, and before you know it I've written most of the code and only a few words of pseudocode. Obviously this will only work with small projects, so I need to get acclimated to writing out whole projects in pseudocode before touching actual code."
+                    },
+                    {
+                        "header": "What does it mean to develop good code?",
+                        "text": "Seems like good code needs to: <ul><li>Be functional. Fulfill the need of the project.</li><li>Be maintainable. It should to be written to be easily upgradeable and readable.</li></ul>These are in order of importance. There's no point in writing well-documented, well-commented code if it doesn't actually fulfill the need it's engineered for."
+                    },
+                    {
+                        "header": "What does it mean to be a good Developer?",
+                        "text": "I certainly don't know the answer to that, but one important quality seems to be the ability to absorb and quickly utilize new information."
+                    }
+                ]
+            },
+            {
+                "title": "Week Seven Questions",
+                "date": "October 7th, 2019",
+                "body": [
+                    {
+                        "header": "Why do you see Javascript useful or hard to use?",
+                        "text": "The upside of javascript seems to be that it runs on anything that can run a web browser."
+                    },
+                    {
+                        "header": "What aspects about Javascript are you interested in learning more about?",
+                        "text": "Considering it's more or less my first language, I'm interested to learn more of everything about it."
+                    }
+                ]
+            },
+            {
+                "title": "Week Eight Questions",
                 "date": "October 14th, 2019",
                 "body": [
                     {
@@ -12,6 +144,20 @@
                     {
                         "header": "What Frameworks or Libraries are you interested in learning more about?",
                         "text": "React, considering we start that next week."
+                    }
+                ]
+            },
+            {
+                "title": "Week Nine Questions",
+                "date": "October 20th, 2019",
+                "body": [
+                    {
+                        "header": "Why are CLIs scary?",
+                        "text": "I have a fair bit of experience with CLIs, so I don't find them scary. I think they're scary up until the point you learn basic directory movement: ls,cd,cd .., etc."
+                    },
+                    {
+                        "header": "Would you build a CLI?  What would it do?",
+                        "text": "I'm not sure if this applies, but I really appreciate the simplicity of a script that takes command line arguments. I've made quite a few of those."
                     }
                 ]
             }
