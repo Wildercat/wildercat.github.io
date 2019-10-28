@@ -88,20 +88,6 @@
                 ]
             },
             {
-                "title": "",
-                "date": "",
-                "body": [
-                    {
-                        "header": "",
-                        "text": ""
-                    },
-                    {
-                        "header": "",
-                        "text": ""
-                    }
-                ]
-            },
-            {
                 "title": "Week Six Questions",
                 "date": "September 22nd, 2019",
                 "body": [
@@ -158,6 +144,24 @@
                     {
                         "header": "Would you build a CLI?  What would it do?",
                         "text": "I'm not sure if this applies, but I really appreciate the simplicity of a script that takes command line arguments. I've made quite a few of those."
+                    }
+                ]
+            },
+            {
+                "title": "Week Ten Questions",
+                "date": "October 28th, 2019",
+                "body": [
+                    {
+                        "header": "What do you like about React?",
+                        "text": "I love the idea of building modular, reusable components. The feeling of making something in an efficient way that will benefit me later is very satisfying."
+                    },
+                    {
+                        "header": " What are you struggling with the most about React?",
+                        "text": "Honestly, pretty much the same thing. The idea of making all my components perfect so that they could be reused ended up basically paralyzing me. The first week of react I really struggled to make any progress as I would just get stuck on making a single component."
+                    },
+                    {
+                        "header": "How has React caused you to rethink your existing projects?",
+                        "text": "I have redone a few of my projects, and the main change in thinking has been to look for the common needs of the projects and design components that will have roles in multiple projects. For example, several of our projects(tictactoe, puzzle slider) are displayed in a square grid. So, I built a grid component that would accept a two dimensional array and a few other properties and display a grid of the correct size and dimensions."
                     }
                 ]
             }
